@@ -25,7 +25,7 @@ class cityscapes:
         '''
         List images as (city, id) for the specified split
 
-        TODO(shelhamer) generate splits from cityscapes itself, instead of
+
         relying on these separately made text files.
         '''
         if split == 'train':
